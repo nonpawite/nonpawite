@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
              %%%####*
         @@@%%####*********+
@@ -22,6 +20,8 @@
                ...................
                      ........
 ```
+
+<div align="center">
 
 **Embedded Systems & AI Engineer**
 
